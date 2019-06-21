@@ -1,5 +1,6 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "asdf",
     "slug": "aatest",
     "privacy": "public",
@@ -8,6 +9,15 @@
       "ios",
       "android",
       "web"
+=======
+    "name": "testapp~",
+    "slug": "test",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+>>>>>>> b0c5c421aadb3c09a2cd3ba18f179d4c541297fb
     ],
     "version": "1.0.0",
     "orientation": "portrait",
