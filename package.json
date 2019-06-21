@@ -4,6 +4,20 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
+<<<<<<< HEAD
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-dom": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-web": "^0.11.4"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1"
+=======
     "eject": "expo eject"
   },
   "dependencies": {
@@ -13,6 +27,7 @@
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
+>>>>>>> b0c5c421aadb3c09a2cd3ba18f179d4c541297fb
   },
   "private": true
 }
